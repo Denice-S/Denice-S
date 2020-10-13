@@ -1,3 +1,5 @@
+![Denices banner](https://github.com/Denice-S/Denice-S/blob/main/assets/banner.png)
+
 ### Hi there 👋, My name is Denice
 #### I'm currently studying with TechTalent Academy 
 I am learning to code and currently working with Python, JavaScript, Node JS, HTML and CSS. 
