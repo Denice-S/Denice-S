@@ -2,9 +2,9 @@
 
 ### Hi there 👋, My name is Denice
 #### I'm currently studying with TechTalent Academy 
-I am learning to code and currently working with Python, JavaScript, Node JS, HTML and CSS. 
+I am learning to code and currently working with Python, JavaScript, HTML and CSS. 
 
-Skills:  JS / HTML / CSS//Python
+Skills:  JS / HTML / CSS / Python
 
 - 🔭 I’m currently working on this page.!! 
 
