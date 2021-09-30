@@ -2,9 +2,9 @@
 
 ### Hi there 👋, My name is Denice
 
-I am learning to code and currently working mainly with , JavaScript, HTML and CSS. 
+I am a Junior Developer working mainly with , JavaScript,React, HTML/CSS, Perl, and SQL
 
-Skills:  JS / HTML / CSS / Python /Ruby
+Skills:  JS / HTML / CSS / Perl/ Python /Ruby
 
 - 🔭 I’m currently working on this page.!! 
 
